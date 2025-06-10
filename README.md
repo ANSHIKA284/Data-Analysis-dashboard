@@ -26,7 +26,7 @@
    Identify number of flights based on Distance group
 -  Use the filter to provide a search capability to find the flights between Source Country, Source State, Source City to Destination Country , Destination State,
 
--	Dashboard Interaction <a herf="https://github.com/ANSHIKA284/Data-Analysis-dashboard/blob/main/Screenshot%20Excel%20Dashboard.png">View Dashboard Execl</a>
+-	Dashboard Interaction <a herf="https://github.com/ANSHIKA284/Data-Analysis-dashboard/blob/main/Screenshot%20Excel%20Dashboard.png">View Dashboard </a>
 
 
  
