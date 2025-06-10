@@ -29,11 +29,7 @@
 -	Dashboard Interaction <a herf="https://github.com/ANSHIKA284/Data-Analysis-dashboard/blob/main/Screenshot%20Excel%20Dashboard.png">View Dashboard Execl</a>
 
 
- 	 <a herf= "https://github.com/ANSHIKA284/Data-Analysis-dashboard/blob/main/Screenshot%20Power%20bi%20Dashboard.png">View Dashboard Power Bi</a>
-        <a herf= "https://github.com/ANSHIKA284/Data-Analysis-dashboard/blob/main/Screenshot%20Tableau%20Dashboard.png">View Dashboard tableau</a>
-
-
-
+ 
 
 
 
