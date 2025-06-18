@@ -29,6 +29,8 @@
  - Dashboard Interaction <a href="https://github.com/ANSHIKA284/Data-Analysis-dashboard/blob/main/Screenshot%20Excel%20Dashboard.png">View Dashboar Excel</a>
  -  Dashboard Interaction <a href= "https://github.com/ANSHIKA284/Data-Analysis-dashboard/blob/main/Screenshot%20Power%20bi%20Dashboard.png">View Dashboard Power Bi</a>
 -  Dashboard Interaction <a href= "https://github.com/ANSHIKA284/Data-Analysis-dashboard/blob/main/Screenshot%20Tableau%20Dashboard.png">View Dashboard tableau</a>
+##Dashboard
+![Screenshot Tableau Dashboard](https://github.com/user-attachments/assets/852f1c2d-0507-4e48-83b4-f91ab8b898e4)
 
 
  
