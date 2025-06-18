@@ -8,7 +8,7 @@
 - <a href="https://github.com/ANSHIKA284/Data-Analysis-dashboard/blob/main/Maindata_file%201.xlsb">Dataset</a>
 
 ## Questions(KPIs)
-- calcuate the following fields from the Year Month (#) Day  fields ( First Create a Date Field from Year , Month , Day fields)
+- Calcuate the following fields from the Year Month (#) Day  fields ( First Create a Date Field from Year , Month , Day fields)
    -  Year
    -  Monthno
    -  Monthfullname
