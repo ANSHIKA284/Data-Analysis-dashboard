@@ -22,20 +22,22 @@
 -  Find the load Factor percentage on a Carrier Name basis ( Transported passengers / Available seats)
 -  Identify Top 10 Carrier Names based passengers preference 
 -  Display top Routes ( from-to City) based on Number of Flights 
--	Identify the how much load factor is occupied on Weekend vs Weekdays.
+-	Identify the how much load factor is occupied on Weekend vs Weekdays
    Identify number of flights based on Distance group
--  Use the filter to provide a search capability to find the flights between Source Country, Source State, Source City to Destination Country , Destination State,
-
+-  Use the filter to provide a search capability to find the flights between Source Country, Source State, Source City to Destination Country , Destination State,Destination city
  - Dashboard Interaction <a href="https://github.com/ANSHIKA284/Data-Analysis-dashboard/blob/main/Screenshot%20Excel%20Dashboard.png">View Dashboar Excel</a>
  -  Dashboard Interaction <a href= "https://github.com/ANSHIKA284/Data-Analysis-dashboard/blob/main/Screenshot%20Power%20bi%20Dashboard.png">View Dashboard Power Bi</a>
 -  Dashboard Interaction <a href= "https://github.com/ANSHIKA284/Data-Analysis-dashboard/blob/main/Screenshot%20Tableau%20Dashboard.png">View Dashboard tableau</a>
 ## Dashboard
-![Screenshot Excel Dashboard](https://github.com/user-attachments/assets/beaff92f-d132-4508-ae32-c0c4bba82292)
+![Screenshot Dashboard](https://github.com/user-attachments/assets/e70fc9df-5334-4781-a9f3-3f1b9300c895)
 
-
-
- 
-
+## Recommendation
+-	Optimize Flight Routes –Utilize insights from top routes and flights to optimize schedule and resource allocation
+- 	Strategic Carrier Partnership – Collaborate with top carriers to increase passenger Transportation
+-  Enhance Load Factor –Leverage Load Factor Analysis to identify trends and implement strategies to increase efficiency 
+## Conclusion
+-	The KPI’s offers a glimpse to improve and growth within
+-	By implementing these data-driven insights, High Cloud Airlines can enhance operational performance, improve customer satisfaction, and increase profitability, ensuring a competitive edge in the aviation industry.
 
 
 
